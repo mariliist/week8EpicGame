@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "week8picGame", "week8picGame\week8picGame.csproj", "{BC3D5D9D-2DB7-429E-996D-A75BAEFCB08A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC3D5D9D-2DB7-429E-996D-A75BAEFCB08A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC3D5D9D-2DB7-429E-996D-A75BAEFCB08A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC3D5D9D-2DB7-429E-996D-A75BAEFCB08A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC3D5D9D-2DB7-429E-996D-A75BAEFCB08A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28F3CFCE-792A-47B1-811B-322359338CDF}
+	EndGlobalSection
+EndGlobal
